@@ -1,0 +1,188 @@
+h1 {
+font-size: 96px;
+text-align: center;
+}
+
+body {
+background-color:#430000;
+margin: 0;
+font-family: "Crimson Text", serif;
+}
+
+p {
+font-size: 32px;
+text-align: center;
+color:#661F1F;
+}
+
+.heroimage{
+color:white;
+background-color: #661F1F;
+margin: 0;
+}
+
+.SectionName{
+color:white;
+background-color: #661F1F;
+margin: 0;
+padding-top: 35px;
+padding-bottom:40px;
+letter-spacing: 5px;
+font-weight: bold;
+}
+
+.headercontainer {
+text-align:center;
+background-color:#661F1F;
+padding: 20px;
+}
+
+.logo, .headeroptions {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo img {
+    vertical-align: middle;
+}
+
+.headeroptions {
+    margin-left: 100px;
+}
+
+.headeroptions a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.maincontent {
+margin: 0;
+background-color:#430000;
+}
+
+.card {
+background-color: white;
+margin: 20px;
+}
+
+.eventtitle {
+font-size: 32px;
+font-weight: bold;
+}
+
+.eventagerange {
+color: red;
+}
+
+.presentstext {
+color: grey;
+}
+
+.buyticketsbutton {
+border: black;
+padding: 20px;
+border-style: solid;
+max-width: 82px;
+font-weight: bold;
+}
+
+
+
+.eventimage {
+display: inline-block;
+vertical-align: middle;
+}
+
+.eventcontent {
+padding: 20px;
+display: inline-block;
+vertical-align: middle;
+}
+
+/*footer*/
+
+footer {
+    text-align:center;
+    color:white;
+    background-color: #661F1F;
+    margin: 0;
+    max-width: 100%;
+    margin-inline: auto;
+    letter-spacing: 5px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.footercard1 {
+display: inline-block;
+margin-left: 50px;
+margin-right: 50px;
+text-align:left;
+}
+
+.footerlogo {
+padding-left: 15%;
+}
+
+.locationhourscontact {
+    letter-spacing: normal;
+    border: 0px;
+    border-top: white;
+    border-style: solid;
+    align-content: center;
+    justify-content: center;
+}
+
+.locationinfo {
+display: inline-block;
+vertical-align: top;
+padding: 20px;
+}
+
+.hoursinfo {
+display: inline-block;
+vertical-align: top;
+padding: 20px;
+}
+
+.contactinfo {
+display: inline-block;
+vertical-align: top;
+padding: 20px;
+}
+    
+.searchbar {
+    text-align:left;
+    border: white;
+    border-style: solid;
+    border-radius: 20px;
+    width: 300px;
+    letter-spacing: normal;
+    display: inline-block;
+    padding: 20px;
+    margin: 50px;
+    vertical-align: 50%;
+    color: #ffffff90;
+}
+
+.socials {
+    width: 250px;
+    letter-spacing: normal;
+    display: inline-block;
+}
+
+.socialscontainer {
+    padding-top: 20px;
+vertical-align: bottom;
+}
+
+.copyright {
+text-align: center;
+letter-spacing: normal;
+}
+
